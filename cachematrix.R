@@ -7,8 +7,8 @@
 # *Inverse is printed but now with the message "getting cached data" since it is now from the cache*
 #-------------------------------------------------------------------------------------------------------------------
 #
-# This code is not VERY similar to the example he gave. In fact, it is the same! I think the REAL point of this
-# exercise was to get us using GitHib. I mean I really just replaced the word "mean" with "solve".
+# This code is not VERY similar to the example he gave. In fact, it is the same! I think the REAL point
+# of this exercise was to get us using GitHib. I mean I really just replaced the word "mean" with "solve".
 # You will also note I moved the {} around alittle to match my personal taste.
 #
 #-------------------------------------------------------------------------------------------------------------------
